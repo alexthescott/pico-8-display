@@ -1,6 +1,6 @@
 # Pico-8 Display
 
-####Python3 script to run a batch of Pico-8 carts on a regular interval. 
+#### Python3 script to run a batch of Pico-8 carts on a regular interval
 
 <img src="example.gif">
 
