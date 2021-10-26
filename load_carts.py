@@ -7,7 +7,6 @@ cart passing in found list
 """
 
 import subprocess
-import pdb
 
 PATH_PICO8 = '/home/pi/Documents/pico-8/pico8'
 PATH_CART_RUNNER = '/home/pi/.lexaloffle/pico-8/carts/runner.p8'
