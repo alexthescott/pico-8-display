@@ -29,9 +29,7 @@ else
 	
 	-- after timeout expires
 	-- reload runner.p8
-	if time()>=dc_max then
-		load("runner.p8","disp",stat(6))
-	end
+	if(time()>=dc_max) load("runner.p8","disp",stat(6))
 
 end
 flip()
