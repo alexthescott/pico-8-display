@@ -1,4 +1,4 @@
-# Pico-8 Display
+# Pico-8 Cycle Cart Display Python Script
 
 #### Python3 script to run a batch of Pico-8 carts on a regular interval
 
